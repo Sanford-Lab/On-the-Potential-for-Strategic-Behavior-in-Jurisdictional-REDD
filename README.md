@@ -7,7 +7,7 @@ This repository contains the code and data for reproducing Garcia and Sanford 20
 
 ## Repository structure  
 
-The DOI for this code repository is 10.5281/zenodo.19071812. In order to reproduce analyses, you must download the `data` folder at https://dataverse.yale.edu/ and replace the empty `data` folder in the repository.
+The DOI for this code repository is [10.5281/zenodo.19071812](https://doi.org/10.5281/zenodo.19071812). In order to reproduce analyses, you must download the `data` folder at https://dataverse.yale.edu/ and replace the empty `data` folder in the repository.
 
 ```
 On-the-Potential-for-Strategic-Behavior-in-Jurisdictional-REDD
