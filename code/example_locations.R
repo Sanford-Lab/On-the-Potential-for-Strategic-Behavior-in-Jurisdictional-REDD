@@ -179,6 +179,8 @@ ggplot() +
     )
 
 ggsave(filename = paste0(fig_dir, "/ART_date_map.png"),
-       width = 8, height = 3.5)
+       width = 8)
 ggsave(filename = paste0(fig_dir_pdf, "/ART_date_map.pdf"),
        width = 8, height = 3.5)
+
+
