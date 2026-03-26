@@ -1,17 +1,17 @@
 # On-the-Potential-for-Strategic-Behavior-in-Jurisdictional-REDD
 This repository contains the code and data for reproducing Garcia and Sanford 2026 (In PNAS): "On the Potential for Strategic Behavior in Jurisdictional REDD+".
 
-> **Co-first Authors**: Alberto Garcia (albert.garcia@utah.edu), Luke Sanford (luke.sanford@yale.edu)
+> **Authors**: Alberto Garcia (albert.garcia@utah.edu), Luke Sanford (luke.sanford@yale.edu)
 
 > **Abstract:** Low-quality, nonadditional project-based carbon credits have undermined confidence in the voluntary carbon market and risk increasing atmospheric CO<sub>2</sub> concentrations. As a result, the voluntary carbon market has shifted toward jurisdictional REDD+ programs, which promise to overcome many of the issues that have drawn heightened scrutiny to project-based approaches. Yet little work has explored additionality in jurisdictional settings. By studying forest changes in all eligible jurisdictions, we show theoretically and empirically how jurisdictions could game the system and sell a large volume of credits without reducing emissions; however, we find that this strategic behavior has not driven enrollment to date. In addition, we find evidence of anticipatory deforestation in currently enrolled jurisdictions, illuminating new risks with jurisdictional REDD+.
 
 ## Repository structure  
 
-The DOI for this code repository is [10.5281/zenodo.19071812](https://doi.org/10.5281/zenodo.19071812). In order to reproduce analyses, you must download the `data` folder at https://dataverse.yale.edu/ and replace the empty `data` folder in the repository.
+The DOI for this code repository is [10.5281/zenodo.19071812](https://doi.org/10.5281/zenodo.19071812). In order to reproduce analyses, you must download the `data` folder at https://dataverse.yale.edu/ and add it to the repository.
 
 ```
 On-the-Potential-for-Strategic-Behavior-in-Jurisdictional-REDD
-  |__ data
+  |__ data (need to download)
   |__ code
   |__ figs
   |__ figs_pdf
