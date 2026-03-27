@@ -34,17 +34,16 @@ This section describes the code scripts developed to conduct this study. All cod
 ### code/
 `Processing.R`
 builds a jurisdiction-level forest loss panel using Hansen GFC dataset
-- Inputs: 
-  * XX
 - Outputs: 
   * data/processed/XX.rds
   * data/processed/XX.rds
 
 `Processing_TMF.R`
 builds a jurisdiction-level forest loss panel using Van Cutsem TMF dataset
-- Inputs: 
-  * XX
 - Outputs: 
   * data/processed/XX.rds
   * data/processed/XX.rds
+ 
+`slope_analyses.R`
+conducts main regression analyses of slope and last year deviation from reference period associations with baseline errors
   
